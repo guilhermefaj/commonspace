@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "username": "joao_silva",
+    "email": "joao.silva@email.com",
+    "password": "hashed_password_1",
+    "role": "citizen",
+    "created_at": "2025-03-01T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "username": "maria.lima",
+    "email": "maria.lima@email.com",
+    "password": "hashed_password_2",
+    "role": "citizen",
+    "created_at": "2025-03-01T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "username": "antonio_oliveira",
+    "email": "antonio.oliveira@email.com",
+    "password": "hashed_password_3",
+    "role": "citizen",
+    "created_at": "2025-03-02T10:45:00Z"
+  },
+  {
+    "id": 4,
+    "username": "minera_norte",
+    "email": "contato@norte.com",
+    "password": "hashed_password_4",
+    "role": "company",
+    "created_at": "2025-03-01T11:20:00Z"
+  },
+  {
+    "id": 5,
+    "username": "eco_miner",
+    "email": "sustentavel@ecominer.com",
+    "password": "hashed_password_5",
+    "role": "company",
+    "created_at": "2025-03-02T08:30:00Z"
+  },
+  {
+    "id": 6,
+    "username": "vale_verde",
+    "email": "contato@valeverde.com",
+    "password": "hashed_password_6",
+    "role": "company",
+    "created_at": "2025-03-03T14:50:00Z"
+  },
+  {
+    "id": 7,
+    "username": "prefeitura_novaesperanca",
+    "email": "gabinete@novaesperanca.mg.gov.br",
+    "password": "hashed_password_7",
+    "role": "public_agency",
+    "created_at": "2025-03-01T07:40:00Z"
+  },
+  {
+    "id": 8,
+    "username": "sec_ambiente",
+    "email": "meioambiente@mg.gov.br",
+    "password": "hashed_password_8",
+    "role": "public_agency",
+    "created_at": "2025-03-01T13:30:00Z"
+  },
+  {
+    "id": 9,
+    "username": "camara_municipal_mc",
+    "email": "contato@camarademc.mg.gov.br",
+    "password": "hashed_password_9",
+    "role": "public_agency",
+    "created_at": "2025-03-02T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "username": "juliana_paiva",
+    "email": "julipaiva@email.com",
+    "password": "hashed_password_10",
+    "role": "citizen",
+    "created_at": "2025-03-03T16:10:00Z"
+  }
+] 

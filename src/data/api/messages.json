@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "sender_id": 1,
+    "receiver_id": 4,
+    "content": "Olá, gostaria de saber mais sobre os projetos sociais da Minera Norte para este ano. Existe algum cronograma disponível?",
+    "created_at": "2025-03-05T13:00:00Z"
+  },
+  {
+    "id": 2,
+    "sender_id": 4,
+    "receiver_id": 1,
+    "content": "Olá João! Sim, teremos um informativo digital este mês. Posso incluir seu e-mail na nossa lista de envio?",
+    "created_at": "2025-03-05T13:15:00Z"
+  },
+  {
+    "id": 3,
+    "sender_id": 2,
+    "receiver_id": 7,
+    "content": "Boa tarde, Prefeitura. Existe algum canal para acompanhamento da aplicação da CFEM na educação?",
+    "created_at": "2025-03-04T17:40:00Z"
+  },
+  {
+    "id": 4,
+    "sender_id": 7,
+    "receiver_id": 2,
+    "content": "Boa tarde, Maria. A Secretaria de Educação publicará relatórios mensais em nosso portal a partir de abril.",
+    "created_at": "2025-03-04T18:05:00Z"
+  },
+  {
+    "id": 5,
+    "sender_id": 3,
+    "receiver_id": 5,
+    "content": "Prezados, gostaria de agendar uma reunião para discutir os impactos sonoros em Canaã dos Carajás. Temos recebido muitos relatos.",
+    "created_at": "2025-03-06T08:30:00Z"
+  },
+  {
+    "id": 6,
+    "sender_id": 5,
+    "receiver_id": 3,
+    "content": "Bom dia! Podemos agendar para sexta-feira às 10h? Enviaremos o link da videoconferência.",
+    "created_at": "2025-03-06T09:00:00Z"
+  },
+  {
+    "id": 7,
+    "sender_id": 10,
+    "receiver_id": 6,
+    "content": "Olá Vale Verde, parabéns pela nova estrada! Gostaria de sugerir a inclusão de redutores de velocidade próximos às escolas.",
+    "created_at": "2025-03-03T19:15:00Z"
+  },
+  {
+    "id": 8,
+    "sender_id": 6,
+    "receiver_id": 10,
+    "content": "Obrigado pelo retorno, Juliana. Encaminharemos sua sugestão para o setor de obras.",
+    "created_at": "2025-03-03T19:30:00Z"
+  },
+  {
+    "id": 9,
+    "sender_id": 2,
+    "receiver_id": 9,
+    "content": "Olá, Câmara Municipal. A comunidade pode participar das audiências sobre projetos de mineração? Como se inscreve?",
+    "created_at": "2025-03-02T15:00:00Z"
+  },
+  {
+    "id": 10,
+    "sender_id": 9,
+    "receiver_id": 2,
+    "content": "Sim! As inscrições são abertas e feitas pelo site da Câmara. Próxima audiência: dia 12/03 às 18h.",
+    "created_at": "2025-03-02T15:20:00Z"
+  }
+] 
