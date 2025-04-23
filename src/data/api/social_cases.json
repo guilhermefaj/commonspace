@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Reforma e ampliação da escola municipal São Bento",
+    "description": "Projeto de modernização de salas, construção de biblioteca e implantação de sistema de captação de água da chuva.",
+    "company_id": 4,
+    "investment_amount": 350000.00,
+    "date": "2025-02-10"
+  },
+  {
+    "id": 2,
+    "title": "Centro de Saúde Comunitário de Nova Esperança",
+    "description": "Construção e doação de um centro de atendimento primário à saúde para moradores da zona rural.",
+    "company_id": 5,
+    "investment_amount": 420000.00,
+    "date": "2025-01-22"
+  },
+  {
+    "id": 3,
+    "title": "Projeto Música e Cidadania",
+    "description": "Iniciativa de educação musical para jovens entre 10 e 18 anos em áreas de vulnerabilidade social em Paracatu.",
+    "company_id": 4,
+    "investment_amount": 85000.00,
+    "date": "2025-03-01"
+  },
+  {
+    "id": 4,
+    "title": "Capacitação de Jovens para o Mercado de Trabalho",
+    "description": "Cursos técnicos e oficinas de empregabilidade para jovens em Canaã dos Carajás.",
+    "company_id": 6,
+    "investment_amount": 110000.00,
+    "date": "2025-02-05"
+  },
+  {
+    "id": 5,
+    "title": "Construção de área de lazer sustentável",
+    "description": "Parque comunitário com área verde, brinquedos recicláveis e academia ao ar livre em Itabira.",
+    "company_id": 5,
+    "investment_amount": 275000.00,
+    "date": "2025-01-15"
+  },
+  {
+    "id": 6,
+    "title": "Sistema de coleta seletiva para bairros rurais",
+    "description": "Distribuição de kits e treinamento de lideranças para operação de ecopontos comunitários.",
+    "company_id": 4,
+    "investment_amount": 95000.00,
+    "date": "2025-02-20"
+  },
+  {
+    "id": 7,
+    "title": "Projeto de energia solar para escolas públicas",
+    "description": "Instalação de painéis solares em 3 escolas do município de Brumadinho.",
+    "company_id": 6,
+    "investment_amount": 310000.00,
+    "date": "2025-03-05"
+  },
+  {
+    "id": 8,
+    "title": "Requalificação urbana do bairro Santo Antônio",
+    "description": "Pavimentação de ruas, iluminação pública e reforma de quadras esportivas.",
+    "company_id": 5,
+    "investment_amount": 580000.00,
+    "date": "2025-01-28"
+  },
+  {
+    "id": 9,
+    "title": "Centro de Cultura e Memória das Comunidades Quilombolas",
+    "description": "Espaço para valorização e preservação da história dos povos tradicionais de Oriximiná.",
+    "company_id": 4,
+    "investment_amount": 200000.00,
+    "date": "2025-02-12"
+  },
+  {
+    "id": 10,
+    "title": "Programa de incentivo à agricultura familiar",
+    "description": "Crédito, insumos e assistência técnica para pequenos agricultores da região de Mariana.",
+    "company_id": 6,
+    "investment_amount": 150000.00,
+    "date": "2025-03-08"
+  }
+] 

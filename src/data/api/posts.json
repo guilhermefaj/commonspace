@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Poeira constante em horário escolar",
+    "body": "Em Paracatu, a escola municipal próxima à estrada de acesso à mina está coberta de poeira vermelha todos os dias. As crianças estão tossindo com frequência. Precisamos de medidas urgentes de controle de poeira.",
+    "user_id": 1,
+    "type": "report",
+    "status": "pending",
+    "zipcode": "38600-000",
+    "created_at": "2025-03-05T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Sugestão: reflorestamento do entorno da barragem",
+    "body": "Em Itabira, a área ao redor da barragem Norte está degradada. Acredito que um projeto de reflorestamento nativo ajudaria a minimizar riscos e melhorar a imagem da mineradora.",
+    "user_id": 2,
+    "type": "suggestion",
+    "status": "pending",
+    "zipcode": "35900-123",
+    "created_at": "2025-03-05T10:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Cheiro forte e suspeito vindo da área industrial",
+    "body": "Residentes do bairro Vila São João, em Barcarena, têm relatado cheiro químico forte durante a madrugada. Isso precisa ser investigado. Pode estar relacionado aos rejeitos.",
+    "user_id": 3,
+    "type": "report",
+    "status": "pending",
+    "zipcode": "68445-000",
+    "created_at": "2025-03-04T22:10:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Opinião sobre a nova estrada de acesso",
+    "body": "A nova estrada construída em Congonhas trouxe mais segurança e agilidade, mas falta iluminação e sinalização. Como morador, apoio o projeto, mas peço melhorias.",
+    "user_id": 10,
+    "type": "opinion",
+    "status": "reviewed",
+    "zipcode": "36415-000",
+    "created_at": "2025-03-03T16:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Denúncia de descarte irregular de resíduos",
+    "body": "Flagrei caminhões descartando lama cinza próximo ao rio Piracicaba em Mariana. A área não tem controle e é ambientalmente sensível.",
+    "user_id": 1,
+    "type": "report",
+    "status": "pending",
+    "zipcode": "35420-000",
+    "created_at": "2025-03-01T08:15:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Sugestão: transparência na aplicação da CFEM",
+    "body": "Gostaria que a prefeitura de Brumadinho publicasse relatórios mensais sobre o uso da Compensação Financeira pela Exploração Mineral (CFEM). Transparência é essencial.",
+    "user_id": 2,
+    "type": "suggestion",
+    "status": "reviewed",
+    "zipcode": "35460-000",
+    "created_at": "2025-03-02T11:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Barulho de detonações fora do horário permitido",
+    "body": "Na região de Canaã dos Carajás, estamos ouvindo detonações durante a noite. A comunidade está assustada. Solicitamos fiscalização.",
+    "user_id": 3,
+    "type": "report",
+    "status": "pending",
+    "zipcode": "68537-000",
+    "created_at": "2025-03-04T20:45:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Opinião: a relação melhorou, mas falta diálogo",
+    "body": "Em Itabira, as ações sociais da empresa têm aumentado, mas ainda sentimos falta de canais de escuta direta com a comunidade. Reuniões abertas seriam uma boa prática.",
+    "user_id": 10,
+    "type": "opinion",
+    "status": "responded",
+    "zipcode": "35900-456",
+    "created_at": "2025-03-05T07:55:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Sinal fraco e falta de internet no distrito minerador",
+    "body": "O distrito de Bento Rodrigues (Mariana) ainda sofre com sinal de internet precário. A empresa poderia colaborar com a infraestrutura de telecomunicações.",
+    "user_id": 1,
+    "type": "suggestion",
+    "status": "pending",
+    "zipcode": "35423-000",
+    "created_at": "2025-03-02T17:20:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Poço artesiano contaminado após atividade de lavra",
+    "body": "Após o início das atividades da mineradora em Nova Lima, percebemos alteração na água do poço da comunidade. A coloração e o gosto mudaram. Solicitamos análise técnica urgente.",
+    "user_id": 2,
+    "type": "report",
+    "status": "pending",
+    "zipcode": "34000-000",
+    "created_at": "2025-03-06T13:40:00Z"
+  }
+] 

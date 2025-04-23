@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "zipcode": "39600-000",
+    "category": "dust",
+    "description": "Moradores de Araçuaí relatam aumento significativo de poeira nas proximidades da mina Grota do Cirilo, afetando a qualidade do ar e a saúde respiratória da comunidade.",
+    "image_url": "https://example.com/images/poeira_aracuai.jpg",
+    "created_at": "2025-03-01T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "zipcode": "39610-000",
+    "category": "noise",
+    "description": "Em Itinga, detonações frequentes durante a noite provenientes das atividades de mineração têm causado perturbação do sono e rachaduras em residências próximas.",
+    "image_url": "https://example.com/images/ruido_itininga.jpg",
+    "created_at": "2025-03-02T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "zipcode": "62540-000",
+    "category": "risk",
+    "description": "Comunidades próximas a Santa Quitéria expressam preocupação com a possível contaminação radioativa devido à exploração de urânio na região.",
+    "image_url": "https://example.com/images/risco_santa_quiteria.jpg",
+    "created_at": "2025-03-03T10:45:00Z"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "zipcode": "68445-000",
+    "category": "other",
+    "description": "Quilombolas em Oriximiná denunciam impactos socioambientais após 40 anos de extração de bauxita, incluindo perda de território e biodiversidade.",
+    "image_url": "https://example.com/images/impactos_oriximina.jpg",
+    "created_at": "2025-03-04T11:20:00Z"
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "zipcode": "68508-000",
+    "category": "noise",
+    "description": "Residentes de Marabá relatam poluição sonora intensa e vibrações devido ao tráfego constante de trens transportando minério pela Estrada de Ferro Carajás.",
+    "image_url": "https://example.com/images/poluicao_sonora_maraba.jpg",
+    "created_at": "2025-03-05T12:30:00Z"
+  },
+  {
+    "id": 6,
+    "user_id": 6,
+    "zipcode": "35460-000",
+    "category": "risk",
+    "description": "Moradores de Brumadinho manifestam preocupação com a segurança de barragens locais após o histórico de rompimentos na região.",
+    "image_url": "https://example.com/images/barragem_brumadinho.jpg",
+    "created_at": "2025-03-06T13:40:00Z"
+  },
+  {
+    "id": 7,
+    "user_id": 7,
+    "zipcode": "35860-000",
+    "category": "dust",
+    "description": "Comunidade de Conceição do Mato Dentro sofre com aumento de poeira e alteração na paisagem devido às operações do Projeto Minas-Rio.",
+    "image_url": "https://example.com/images/poeira_conceicao.jpg",
+    "created_at": "2025-03-07T14:50:00Z"
+  },
+  {
+    "id": 8,
+    "user_id": 8,
+    "zipcode": "68516-000",
+    "category": "risk",
+    "description": "Indígenas Xikrin denunciam contaminação por metais pesados no rio Cateté, afetando a saúde da comunidade e a qualidade da água.",
+    "image_url": "https://example.com/images/contaminacao_xikrin.jpg",
+    "created_at": "2025-03-08T15:00:00Z"
+  },
+  {
+    "id": 9,
+    "user_id": 9,
+    "zipcode": "35420-000",
+    "category": "other",
+    "description": "Moradores de Mariana relatam dificuldades no abastecimento de água devido às atividades mineradoras na região.",
+    "image_url": "https://example.com/images/agua_mariana.jpg",
+    "created_at": "2025-03-09T16:10:00Z"
+  },
+  {
+    "id": 10,
+    "user_id": 10,
+    "zipcode": "35423-000",
+    "category": "risk",
+    "description": "Comunidade de Bento Rodrigues expressa temor de novos desastres ambientais relacionados às barragens de rejeitos próximas.",
+    "image_url": "https://example.com/images/risco_bento_rodrigues.jpg",
+    "created_at": "2025-03-10T17:20:00Z"
+  }
+] 
